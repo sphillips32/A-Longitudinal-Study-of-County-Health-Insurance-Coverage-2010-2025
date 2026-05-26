@@ -8,7 +8,7 @@ A panel data study examining how county-level health insurance coverage changed 
 
 ## Overview
 
-This project uses 16 annual releases of CHR&R data to track uninsured rates at the county level from 2010 through 2025. The study is **descriptive** — it characterizes patterns and associations (including the ACA Medicaid expansion period ~2014) without making causal claims.
+This project uses 16 annual releases of CHR&R data to track uninsured rates at the county level from 2010 through 2025. The study is **descriptive** as it attempts to characterize patterns and associations (including the ACA Medicaid expansion period ~2014) without making causal claims.
 
 **What this project produces:**
 - A clean, county-year panel dataset spanning 2010–2025
