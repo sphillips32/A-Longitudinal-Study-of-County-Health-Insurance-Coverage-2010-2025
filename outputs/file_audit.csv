@@ -1,0 +1,17 @@
+release_year,status,n_rows,n_cols,fips_col,uninsured_col,first_3_cols
+2010,OK,3194,198,5-digit fips code,uninsured adults raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2011,OK,3194,379,5-digit fips code,uninsured adults raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2012,OK,3194,330,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2013,OK,3194,466,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2014,OK,3194,487,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2015,OK,3194,462,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2016,OK,3194,482,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2017,OK,3196,492,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2018,OK,3195,508,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2019,OK,3195,534,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2020,OK,3195,786,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2021,OK,3195,690,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2022,OK,3195,725,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2023,OK,3195,720,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2024,OK,3196,770,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code
+2025,OK,3205,796,5-digit fips code,uninsured raw value,State FIPS Code | County FIPS Code | 5-digit FIPS Code

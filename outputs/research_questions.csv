@@ -1,0 +1,5 @@
+rq_id,question,relevant_variables,method,week
+RQ1,Which CHR uninsured measure is most appropriate as the main outcome for a longitudinal county-level analysis?,v059_rawvalue (% uninsured all ages); v085_rawvalue (% uninsured adults),Data dictionary review; availability table; measurement consistency check,2-3
+RQ2,Which socioeconomic and demographic variables are available consistently enough to support analysis across the full 2010-2025 panel?,"Poverty rate, median household income, unemployment, educational attainment, race/ethnicity composition, rurality, Medicaid expansion status (external join)",Variable availability table; missingness summary,2-3
+RQ3,"How did uninsured rates change nationally, across states, and across counties from 2010 through 2025?",Uninsured rate (outcome); year; state FIPS; county FIPS,Descriptive trend analysis; national and state-level plots; distribution comparisons across time,4
+RQ4,"What do basic regression and prediction models reveal about the structure of the uninsured-rate problem, and what do they leave unanswered?",All panel variables after missingness filtering,OLS; ridge regression; lasso; random forest,5

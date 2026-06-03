@@ -1,0 +1,17 @@
+release_year,approx_measure_period,data_source,verified,notes
+2010,2005,SAHIE,True,Confirmed: Uninsured adults (v003) - Small Area Health Insurance Estimates U.S. Census 2005. Adult-only measure.
+2011,2008,SAHIE,True,Confirmed: Uninsured adults (v003) - Small Area Health Insurance Estimates 2008. Adult-only measure.
+2012,2009,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2009. Shifted to all-ages measure this year.
+2013,2010,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2010. All-ages measure.
+2014,2011,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2011. All-ages measure.
+2015,2012,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2012. All-ages measure.
+2016,2013,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2013. All-ages measure.
+2017,2014,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2014. All-ages measure.
+2018,2015,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2015. All-ages measure.
+2019,2016,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2016. All-ages measure.
+2020,2017,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2017. All-ages measure.
+2021,2018,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2018. All-ages measure.
+2022,2019,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2019. All-ages measure.
+2023,2020,SAHIE,True,Confirmed: Uninsured (v085) - Small Area Health Insurance Estimates 2020. All-ages measure.
+2024,2021,SAHIE,True,Confirmed in 2024 CHRR Technical Document Appendix 5. Uninsured (all ages) draws from Small Area Health Insurance Estimates 2021. All-ages measure.
+2025,2022,SAHIE,True,Confirmed: Uninsured (v059) - Small Area Health Insurance Estimates 2022. All-ages measure. Confirmed in 2025 CHR Technical Document Appendix 2.
