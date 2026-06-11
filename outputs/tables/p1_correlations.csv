@@ -1,0 +1,13 @@
+variable,pearson_r_pooled,pearson_r_2019,n_pooled
+median_income,-0.483,-0.331,43849
+some_college_rate,-0.476,-0.448,43850
+pct_65plus,-0.173,-0.036,43851
+pct_asian,-0.125,-0.131,43851
+pct_black,0.129,0.135,43851
+pct_rural,0.14,0.165,43809
+pct_aian,0.168,0.193,43851
+pct_under18,0.243,0.23,43851
+single_parent_rate,0.274,0.196,43845
+unemployment_rate,0.366,-0.081,43851
+pct_hispanic,0.372,0.454,43851
+child_poverty_rate,0.49,0.422,43851
